@@ -7,6 +7,7 @@ import java.util.List;
  * Created by Дмитрий on 13.09.14.
  */
 public class Order {
+
     private List<Pizza> pizzaList;
     private String address;
     private Date orderDate;
