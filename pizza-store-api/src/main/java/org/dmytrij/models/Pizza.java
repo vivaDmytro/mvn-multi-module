@@ -7,6 +7,7 @@ import org.dmytrij.tools.PizzaSize;
  * Created by Дмитрий on 13.09.14.
  */
 public class Pizza {
+
     private Integer id;
     private PizzaName name;
     private PizzaSize size;
